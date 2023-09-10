@@ -1,0 +1,1 @@
+**Khann** is a C program for training an artificial neural network to recognise hand written digits that are drawn in a web browser. The program uses training data provided by [Kaggle](https://www.kaggle.com).
